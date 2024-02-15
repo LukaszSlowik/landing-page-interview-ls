@@ -32,7 +32,7 @@ const AreCore = ({ dictionary }: Props) => {
                 </span>
               </div>
               <hr className="my-3 block h-1 w-14 bg-fg" />
-              <h2 className="font-base pt-8">{item.text}</h2>
+              <h2 className=" max-xs:text-base pt-8 text-2xl">{item.text}</h2>
             </div>
           ))}
         </div>

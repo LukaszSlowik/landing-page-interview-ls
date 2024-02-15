@@ -34,8 +34,8 @@ const WeCreate = ({ lang, dictionary }: Props) => {
             priority
             width={705}
             height={507}
-            className="mx-auto  mt-12 bg-white  dark:aspect-square dark:rounded-full  
-            max-lg:max-w-[300px] max-sm:mb-4
+            className="max-xs:w-full  mx-auto mt-12  bg-white dark:aspect-square  
+            dark:rounded-full max-lg:max-w-[300px] max-sm:mb-4
             dark:lg:max-w-[70%]  "
           />
         </div>

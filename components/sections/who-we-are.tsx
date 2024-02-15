@@ -37,7 +37,7 @@ const WhoWeAre = ({ dictionary }: Props) => {
             <div key={item} className="flex flex-col ">
               <span className="text-orange">{index + 1}</span>
               <hr className="my-3 block h-1 w-12 bg-fg" />
-              <h2 className="font-base pt-8">{item}</h2>
+              <h2 className="pt-8  text-2xl">{item}</h2>
             </div>
           ))}
         </div>
