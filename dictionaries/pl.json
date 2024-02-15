@@ -1,0 +1,69 @@
+{
+    "navigation": {
+        "home": "Strona główna",
+        "startups": "Startupy",
+        "workwithus": "Pracuj z nami",
+        "contact": "Kontakt"
+    },
+    "more": "Więcej",
+    "wecreate": {
+        "title1": "Tworzymy",
+        "title2": "startupy.",
+        "subtitle": "Jesteśmy studiem startupowym, które rozwija i uruchamia nowe firmy.",
+        "button": "Zobacz nasze prace"
+    },
+    "whoweare": {
+        "title": "Kim jesteśmy",
+        "subtitle": "Tworzymy produkty, które mają innowację i technologię w centrum. Współpracujemy z utalentowanymi ludźmi, którzy rozumieją możliwości dzisiejszego świata."
+    },
+    "form": {
+        "name": "Imię",
+        "email": "Email",
+        "message": "Wiadomość",
+        "send": "Wyślij wiadomość"
+    },
+    "welove": "Kochamy rozwiązywać problemy!",
+    "info": "Startupy tworzą świat, który jest naprawdę lepszy. Każdy problem, który może zostać rozwiązany, zostanie rozwiązany przez startup, a to ogromna szansa.",
+    "whowearelist": [
+        "Rozwijamy innowacyjne produkty, systemy i usługi",
+        "Następnie budujemy zespoły, aby przekształcić je w firmy",
+        "Każdy startup rozwiązuje jeden problem na raz"
+    ],
+    "ourcore": "Nasza podstawe wartości",
+    "ourcorelist": [
+        {
+            "title": "Innowacja",
+            "text": "Startupz działa tam, gdzie przedsiębiorczość i technologia się łączą. Projektujemy rozwiązania i przekształcamy je w modele biznesowe."
+        },
+        {
+            "title": "Ludzie",
+            "text": "Talent pozwala nam tworzyć wspaniałe firmy."
+        }
+    ],
+    "ourworks": "Nasze prace",
+    "ourworkslist": {
+        "tolq": "Tolq to rozwiązanie do tłumaczeń stworzone dla e-commerce. Zapewnia wszystkie elementy zagadki lokalizacji w jednym zintegrowanym rozwiązaniu.",
+        "feedbacklabs": "Feedback Labs zamienia opinie w praktyczne wskazówki dla Twojego zespołu.",
+        "codekeeper": "Codekeeper to kompleksowe rozwiązanie dla programistów i wydawców oprogramowania, które zapewnia depozyt kodu źródłowego jako część umów SLA i licencji.",
+        "legalsite": "Chroniony przed ryzykiem prawno-podatkowym, zgodny z przepisami dotyczącymi prywatności i zawsze aktualny z najnowszymi przepisami prawnymi."
+    },
+    "wearehiring": {
+        "title": "Rekrutujemy",
+        "subtitle": "Zawsze szukamy utalentowanych osób, które chcą dołączyć i pomóc w budowaniu naszych startupów. Sprawdź nasze aktualne oferty pracy",
+        "seeopenings": "Zobacz aktualne oferty pracy"
+    },
+    "formpage": {
+        "title": "Czy jesteś gotowy na pokładzie tej rakiety?",
+        "subtitle": "Podziel się swoim entuzjazmem z nami."
+    },
+    "footer": {
+        "companies": "Firmy",
+        "contact": "Kontakt",
+        "foolowus": "Śledź nas",
+        "sendemial": "Wyślij nam email?"
+    },
+    "assistant": {
+        "firstline": "Cześć! Jestem Ben, twój wirtualny asystent.",
+        "secondline": "Jak mogę umilić Ci dzień?"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "navigation": {
+        "home": "Home",
+        "startups": "Startups",
+        "workwithus": "Work With Us",
+        "contact": "Contact"
+    },
+    "more": "More",
+    "wecreate": {
+        "title1": "We create",
+        "title2": "startups.",
+        "subtitle": "We are startup studio that develops and launches new companies.",
+        "button": "See our works"
+    },
+    "whoweare": {
+        "title": "Who we are",
+        "subtitle": "We create products that have innovation and technology at their core. We value working with talented people that understand the possibilities of today."
+    },
+    "form": {
+        "name": "Name",
+        "email": "Email",
+        "message": "Message",
+        "send": "Shoot us a message"
+    },
+    "welove": "We love solving problems!",
+    "info": "Startups create a world that actually is better. Any problem that can be solved, will be solved by a startup, and that is a huge opportunity.",
+    "whowearelist": [
+        "We develop innovative products, systems and services",
+        "Next we build teams to scale them into companies",
+        "Each startup solving one problem at a time"
+    ],
+    "ourcore": "Our core Values",
+    "ourcorelist": [
+        {
+            "title": "Innovation",
+            "text": "Startupz operates where entrepreneurship and technology intersect. We design solutions and turn them into businesses models."
+        },
+        {
+            "title": "People",
+            "text": "Talent is what enable us to create great companies."
+        }
+    ],
+    "ourworks": "Our works",
+    "ourworkslist": {
+        "tolq": "Tolq is the translation solution built for e-commerce. It provides all pieces of the localization puzzle in one single integrated solution.",
+        "feedbacklabs": "Feedback Labs turns feedback into actionable insights for your team.",
+        "codekeeper": "Codekeeper is an all-in-one solution for software developers and publishers to provide source code escrow as part of service level and license agreements.",
+        "legalsite": "Protected against legal risks, privacy compliant and always up-to-date with the latest regulatory developments."
+    },
+    "wearehiring": {
+        "title": "We are hiring",
+        "subtitle": "We're always looking for talented people to join and help build our startups. Check out our current openings",
+        "seeopenings": "See current openings"
+    },
+    "formpage": {
+        "title": "Are you ready to board this rocket ship?",
+        "subtitle": "Share your excitement with us."
+    },
+    "footer": {
+        "companies": "Companies",
+        "contact": "Contact",
+        "foolowus": "Follow us",
+        "sendemial": "Send us an email?"
+    },
+    "assistant": {
+        "firstline": "Hi! I am Ben, your virtual assistant.",
+        "secondline": "How can I make your day better?"
+    }
+}

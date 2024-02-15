@@ -1,0 +1,69 @@
+{
+    "navigation": {
+        "home": "Hjem",
+        "startups": "Startups",
+        "workwithus": "Arbejd med os",
+        "contact": "Kontakt"
+    },
+    "more": "Mere",
+    "wecreate": {
+        "title1": "Vi skaber",
+        "title2": "startups.",
+        "subtitle": "Vi er et startup-studie, der udvikler og lancerer nye virksomheder.",
+        "button": "Se vores værker"
+    },
+    "whoweare": {
+        "title": "Hvem er vi",
+        "subtitle": "Vi skaber produkter, der har innovation og teknologi som kerne. Vi værdsætter samarbejdet med talentfulde mennesker, der forstår dagens muligheder."
+    },
+    "form": {
+        "name": "Navn",
+        "email": "Email",
+        "message": "Besked",
+        "send": "Send os en besked"
+    },
+    "welove": "Vi elsker at løse problemer!",
+    "info": "Startups skaber en verden, der faktisk er bedre. Ethvert problem, der kan løses, vil blive løst af et startup, og det er en kæmpe mulighed.",
+    "whowearelist": [
+        "Vi udvikler innovative produkter, systemer og services",
+        "Derefter opbygger vi teams til at skalere dem til virksomheder",
+        "Hvert startup løser ét problem ad gangen"
+    ],
+    "ourcore": "Vores kerne værdier",
+    "ourcorelist": [
+        {
+            "title": "Innovation",
+            "text": "Startupz opererer der, hvor iværksætteri og teknologi krydser hinanden. Vi designer løsninger og omdanner dem til forretningsmodeller."
+        },
+        {
+            "title": "Mennesker",
+            "text": "Talent er det, der gør det muligt for os at skabe fantastiske virksomheder."
+        }
+    ],
+    "ourworks": "Vores værker",
+    "ourworkslist": {
+        "tolq": "Tolq er løsningen til oversættelse, der er bygget til e-handel. Den giver alle brikkerne i lokaliseringspuslespillet i én integreret løsning.",
+        "feedbacklabs": "Feedback Labs omdanner feedback til handlingsrettede indsigter for dit team.",
+        "codekeeper": "Codekeeper er en alt-i-en-løsning til softwareudviklere og udgivere til at levere kildekodeopbevaring som en del af serviceaftaler og licensaftaler.",
+        "legalsite": "Beskyttet mod juridiske risici, i overensstemmelse med privatliv og altid opdateret med de nyeste reguleringsudviklinger."
+    },
+    "wearehiring": {
+        "title": "Vi ansætter",
+        "subtitle": "Vi leder altid efter talentfulde mennesker til at deltage og hjælpe med at opbygge vores startups. Se vores aktuelle stillingsopslag",
+        "seeopenings": "Se aktuelle stillingsopslag"
+    },
+    "formpage": {
+        "title": "Er du klar til at stige ombord på dette rumskib?",
+        "subtitle": "Del din begejstring med os."
+    },
+    "footer": {
+        "companies": "Virksomheder",
+        "contact": "Kontakt",
+        "foolowus": "Følg os",
+        "sendemial": "Send os en email?"
+    },
+    "assistant": {
+        "firstline": "Hej! Jeg er Ben, din virtuelle assistent.",
+        "secondline": "Hvordan kan jeg gøre din dag bedre?"
+    }
+}

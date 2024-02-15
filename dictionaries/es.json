@@ -1,0 +1,69 @@
+{
+    "navigation": {
+        "home": "Inicio",
+        "startups": "Startups",
+        "workwithus": "Trabaja con nosotros",
+        "contact": "Contacto"
+    },
+    "more": "Más",
+    "wecreate": {
+        "title1": "Creamos.",
+        "title2": "startups.",
+        "subtitle": "Somos un estudio de startups que desarrolla y lanza nuevas empresas.",
+        "button": "Ver nuestros trabajos"
+    },
+    "whoweare": {
+        "title": "Quiénes somos",
+        "subtitle": "Creamos productos que tienen la innovación y la tecnología en su núcleo. Valoramos trabajar con personas talentosas que comprenden las posibilidades de hoy en día."
+    },
+    "form": {
+        "name": "Nombre",
+        "email": "Correo electrónico",
+        "message": "Mensaje",
+        "send": "Envíanos un mensaje"
+    },
+    "welove": "¡Nos encanta resolver problemas!",
+    "info": "Las startups crean un mundo que realmente es mejor. Cualquier problema que se pueda resolver, será resuelto por una startup, y eso es una gran oportunidad.",
+    "whowearelist": [
+        "Desarrollamos productos, sistemas y servicios innovadores",
+        "Luego construimos equipos para convertirlos en empresas",
+        "Cada startup resolviendo un problema a la vez"
+    ],
+    "ourcore": "Nuestros valores fundamentales",
+    "ourcorelist": [
+        {
+            "title": "Innovación",
+            "text": "Startupz opera donde se cruzan el emprendimiento y la tecnología. Diseñamos soluciones y las convertimos en modelos de negocios."
+        },
+        {
+            "title": "Personas",
+            "text": "El talento es lo que nos permite crear grandes empresas."
+        }
+    ],
+    "ourworks": "Nuestros trabajos",
+    "ourworkslist": {
+        "tolq": "Tolq es la solución de traducción creada para el comercio electrónico. Proporciona todas las piezas del rompecabezas de la localización en una sola solución integrada.",
+        "feedbacklabs": "Feedback Labs convierte los comentarios en ideas accionables para tu equipo.",
+        "codekeeper": "Codekeeper es una solución todo en uno para desarrolladores y editores de software que proporciona custodia de código fuente como parte de los acuerdos de nivel de servicio y licencia.",
+        "legalsite": "Protegido contra riesgos legales, cumplimiento de privacidad y siempre actualizado con los últimos desarrollos normativos."
+    },
+    "wearehiring": {
+        "title": "Estamos contratando",
+        "subtitle": "Siempre estamos buscando personas talentosas para unirse y ayudar a construir nuestras startups. Echa un vistazo a nuestras vacantes actuales",
+        "seeopenings": "Ver vacantes actuales"
+    },
+    "formpage": {
+        "title": "¿Estás listo para subir a esta nave espacial?",
+        "subtitle": "Comparte tu emoción con nosotros."
+    },
+    "footer": {
+        "companies": "Empresas",
+        "contact": "Contacto",
+        "foolowus": "Síguenos",
+        "sendemial": "¿Envíanos un correo electrónico?"
+    },
+    "assistant": {
+        "firstline": "¡Hola! Soy Ben, tu asistente virtual.",
+        "secondline": "¿Cómo puedo mejorar tu día?"
+    }
+}
