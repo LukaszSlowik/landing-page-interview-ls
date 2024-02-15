@@ -25,7 +25,7 @@ const OurWork = ({ dictionary, lang }: Props) => {
             return (
               <div
                 key={item.name}
-                className="shadow-box flex flex-col items-center justify-end rounded-xl border p-8 text-center text-xl transition-all hover:scale-105  dark:shadow-none  "
+                className="shadow-box flex flex-col items-center justify-end rounded-xl border p-2 text-center text-xl transition-all hover:scale-105 dark:shadow-none  sm:p-8  "
               >
                 <h1
                   className="py-4 text-4xl font-semibold"

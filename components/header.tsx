@@ -40,11 +40,11 @@ const Header = ({ lang, dictionary, links }: Props) => {
         scroll && `  shadow-header`,
       )}
     >
-      <div className=" max-w-custom-max mx-auto flex items-center justify-between ">
+      <div className=" max-w-custom-max mx-auto flex items-center justify-between max-sm:justify-center">
         <Link href={`/${lang}`}>
-          <Logo className="max-xs:hidden overflow-visible" />
+          <Logo className="overflow-visible max-sm:scale-75 " />
         </Link>
-        <div className="flex items-center justify-end gap-12 max-sm:gap-2">
+        <div className="flex items-center justify-end  max-sm:justify-center max-sm:gap-1 sm:gap-12">
           <NavDesktop className="max-lg:hidden" links={links} />
           <ThemeSwitcher />
           <LocalSwitcher lang={lang} />

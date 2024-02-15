@@ -34,7 +34,7 @@ const LocalSwitcher = ({ lang, className }: Props) => {
             onMouseEnter={() => setOpen(true)}
             // }}
             className={cn(
-              `max-xxs:mr-2 mr-12  flex h-full items-center gap-1 py-2  transition-transform duration-300 focus-visible:outline-none   `,
+              `max-xxs:mr-2 mr-12 flex  h-full items-center gap-1  py-2  transition-transform duration-300 focus-visible:outline-none   `,
             )}
           >
             <span className="font-bold uppercase">{lang}</span>{" "}
